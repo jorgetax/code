@@ -1,8 +1,5 @@
 [workspace]
 resolver = "2"
-members = ["math"]
+members = ["basic"]
 
 [workspace.dependencies]
-pcap = "2.5.0"
-pnet = "0.35"
-crossterm = "0.29.0"
